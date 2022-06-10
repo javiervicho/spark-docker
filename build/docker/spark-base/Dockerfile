@@ -1,5 +1,5 @@
 FROM base
-LABEL manteiner="Andre Perez <andre.marcos.perez@gmail.com>"
+LABEL manteiner="Javier Vicho <javiervicho@gmail.com>"
 
 # -- Layer: Image Metadata
 
