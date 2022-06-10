@@ -8,12 +8,6 @@ Learn Apache Spark through its **Scala**, **Python** (PySpark) and **R** (SparkR
 
 <p align="center"><img src="docs/image/cluster-architecture.png"></p>
 
-![build-master](https://github.com/cluster-apps-on-docker/spark-standalone-cluster-on-docker/workflows/build-master/badge.svg)
-![jupyterlab-latest-version](https://img.shields.io/docker/v/andreper/jupyterlab/3.4.3-spark-3.0.0?color=yellow&label=jupyterlab-latest)
-![spark-latest-version](https://img.shields.io/docker/v/andreper/spark-master/3.2.1?color=yellow&label=spark-latest)
-![spark-scala-api](https://img.shields.io/badge/spark%20api-scala-red)
-![spark-pyspark-api](https://img.shields.io/badge/spark%20api-pyspark-red)
-![spark-sparkr-api](https://img.shields.io/badge/spark%20api-sparkr-red)
 
 ## TL;DR
 
